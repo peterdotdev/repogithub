@@ -1,1 +1,2 @@
 Martes es el segundo dia de la semana 
+y Miercoles es el tercer dia de la semana.
